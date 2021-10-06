@@ -1,4 +1,5 @@
 
+/******************************TAG SELECTORS ********************************/
 /*centers the website and provides background color*/
 body{
         background-color:#3d56b2;
@@ -32,9 +33,7 @@ img{
       border-radius: 50%;
   }
 
-
-
-      
-      
-
-    
+/******************************PSEUDOCLASS**********************************/
+h1:hover{
+  color:gold;
+}
